@@ -20,7 +20,7 @@ Tools/IDE/Library and resources that we are using as follows:
 - IDE: Google Colab:
 - Framework: TensorFlow
 - Library: Keras, numpy, pandas, scikit-Learn
-Dataset: Kaggle
+- Dataset: Kaggle
  
 # Cloud Computing
 - Programming Language: JavaScript
