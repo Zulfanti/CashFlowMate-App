@@ -17,7 +17,7 @@ Tools/IDE/Library and resources that we are using as follows:
 
 # Machine Learning
 - Programming Language: Python
-- IDE: Google Colab:
+- IDE: Google Colab
 - Framework: TensorFlow
 - Library: Keras, numpy, pandas, scikit-Learn
 - Dataset: Kaggle
