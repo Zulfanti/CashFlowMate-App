@@ -4,3 +4,25 @@ Most people face challenges in managing finances due to low financial literacy. 
 
 1. How can applications be implemented in financial to enhance their effectiveness in literacy and management?
 2. How can an application effectively integrate features for recording daily, weekly, and monthly financial transactions to facilitate accurate budgeting and expense tracking?
+
+# Technology
+
+Tools/IDE/Library and resources that we are using as follows:
+# Mobile Development
+- Programming Language: Kotlin
+- IDE (Integrated Development Environment): Android Studio
+- Version Control: Git and GitHub
+- Build System: Gradle
+- UI & UX Design and Prototype: Figma
+
+# Machine Learning
+- Programming Language: Python
+- IDE: Google Colab:
+- Framework: TensorFlow
+- Library: Keras, numpy, pandas, scikit-Learn
+Dataset: Kaggle
+ 
+# Cloud Computing
+- Programming Language: JavaScript
+- Google Cloud Services: Cloud Storage, App Engine, Cloud pub/sub, Cloud Dataflow, and Cloud Spanner
+- API (Application Programming Interface): Cloud Natural Language API
