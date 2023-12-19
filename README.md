@@ -14,6 +14,7 @@ Tools/IDE/Library and resources that we are using as follows:
 - Version Control: Git and GitHub
 - Build System: Gradle
 - UI & UX Design and Prototype: Figma
+[MD repository] (https://github.com/Zulfanti/ML_CashFlowMate)
 
 # Machine Learning
 - Programming Language: Python
@@ -21,8 +22,10 @@ Tools/IDE/Library and resources that we are using as follows:
 - Framework: TensorFlow
 - Library: Keras, numpy, pandas, scikit-Learn
 - Dataset: Kaggle
+[ML repository] (https://github.com/Zulfanti/ML_CashFlowMate)
  
 # Cloud Computing
 - Programming Language: JavaScript
 - Google Cloud Services: Cloud Storage, App Engine, Cloud pub/sub, Cloud Dataflow, and Cloud Spanner
 - API (Application Programming Interface): Cloud Natural Language API
+[CC repository] (https://github.com/fahri-as/CashFlowMate_CC)
