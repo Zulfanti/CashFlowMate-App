@@ -9,7 +9,7 @@ Most people face challenges in managing finances due to low financial literacy. 
 
 Tools/IDE/Library and resources that we are using as follows:
 # Mobile Development
-[MD repository](https://github.com/Zulfanti/ML_CashFlowMate)
+[MD repository]([https://github.com/Zulfanti/ML_CashFlowMate](https://github.com/minchen11/CashFlowMate)
 - Programming Language: Kotlin
 - IDE (Integrated Development Environment): Android Studio
 - Version Control: Git and GitHub
